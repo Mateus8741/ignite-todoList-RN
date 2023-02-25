@@ -4,6 +4,7 @@
 - Modulo 1 - Fundamentos de React Native
 - Desafio 01 - Praticando os conceitos do React Native
 
+![image](https://user-images.githubusercontent.com/62652109/221329120-14a48843-3f80-469f-9f23-5d356ee38581.png)
 
 ## :computer: Sobre o projeto
 
